@@ -1,6 +1,14 @@
 # Complete OOPS in 1 shot | Object Oriented Programming |Complete from scratch
-[Youtube Lecture](https://www.youtube.com/watch?v=LMbGZOU-dtA)
-[Google Drive Folder](https://drive.google.com/drive/folders/16wPAyRIORMcvGEAW9ScB14-TZe_PPSDv)
+
+## Lecture Resources
+
+1. [Youtube Lecture - Mayank Agaarwal](https://www.youtube.com/watch?v=LMbGZOU-dtA)
+2. [Google Drive Folder](https://drive.google.com/drive/folders/16wPAyRIORMcvGEAW9ScB14-TZe_PPSDv)
+3. [Object-Oriented Programming (OOP) in Python - RealPython](https://realpython.com/python3-object-oriented-programming/) - 📚 Dec 15, 2024
+4. [Python Classes: The Power of Object-Oriented Programming - RealPython](https://realpython.com/python-classes/) - 📚 Apr 01, 2026
+5. [Python - Magic or Dunder Methods - All List](https://www.tutorialsteacher.com/python/magic-methods-in-python) 📚
+
+---
 
 Hey there, Python enthusiasts! Are you ready to take your coding skills to the next level? In this comprehensive video, we're diving headfirst into the world of Object-Oriented Programming (OOP) - a fundamental paradigm that will revolutionize the way you write and structure your Python programs.
 

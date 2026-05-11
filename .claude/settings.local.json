@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell($nb = Get-Content \"c:\\\\Users\\\\AhsanKhan\\\\Desktop\\\\complete_OOPS\\\\0_basic_OOP.ipynb\" -Raw | ConvertFrom-Json; $nb.cells[2].id; $nb.cells[2].source)",
+      "PowerShell($nb = Get-Content \"c:\\\\Users\\\\AhsanKhan\\\\Desktop\\\\complete_OOPS\\\\0_basic_OOP.ipynb\" -Raw | ConvertFrom-Json; $nb.cells[2] | Select-Object -Property id, cell_type | Format-List)",
+      "PowerShell($nb = Get-Content \"c:\\\\Users\\\\AhsanKhan\\\\Desktop\\\\complete_OOPS\\\\0_basic_OOP.ipynb\" -Raw | ConvertFrom-Json; $nb.cells[2].source[0..3])"
+    ]
+  }
+}
